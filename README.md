@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Personal Brand & Gaming Projects**
-- 🌱 I’m currently mastering **Advanced Backend Systems**
-- 💬 Ask me about **Web Dev or Game Logic**
-- 📫 Reach me at: **[Your Email Here]**
+- 🔭 I’m currently working on **Helper-ID and Anime Streaming Website**
+- 🌱 I’m currently mastering **Generative AI**
+- 💬 Ask me about **Web Dev, Game Logic and AI Agents**
+- 📫 Reach me at: **animeit158@gmail.com**
 
 ---
 
