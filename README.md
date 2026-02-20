@@ -33,8 +33,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="./profile/stats.svg" alt="akyourowngames github stats" width="400" />
-  <img src="./profile/top-langs.svg" alt="akyourowngames top languages" width="300" />
+  <img src="https://raw.githubusercontent.com/akyourowngames/akyourowngames/main/github-stats.svg" alt="akyourowngames github stats" width="400" />
+  <img src="https://raw.githubusercontent.com/akyourowngames/akyourowngames/main/top-langs.svg" alt="akyourowngames top languages" width="300" />
 </p>
 
 ---
