@@ -6,14 +6,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-bg=true&margin-w=4&rank=SSS,SS,S,A,B" alt="akyourowngames trophies" />
-</p>
-
----
-
 ### 🚀 About Me
 - 🔭 I’m currently working on **Personal Brand & Gaming Projects**
 - 🌱 I’m currently mastering **Advanced Backend Systems**
