@@ -33,11 +33,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akyourowngames&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyourowngames&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="akyourowngames github stats" width="400" />
+  <img src="./profile/top-langs.svg" alt="akyourowngames top languages" width="300" />
 </p>
 
 ---
