@@ -3,8 +3,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-push:
-    branches: [main]
+  push:
+    branches:
+      - main
 
 jobs:
   publish:
@@ -21,7 +22,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
-          filename: github-stats.svg # Saved directly in root
+          filename: github-stats.svg
           
       - name: Generate Languages
         uses: lowlighter/metrics@latest
@@ -32,4 +33,4 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
-          filename: top-langs.svg # Saved directly in root
+          filename: top-langs.svg
