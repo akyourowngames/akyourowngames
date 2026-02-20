@@ -14,6 +14,16 @@
 
 ---
 
+### 🏅 Professional Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-Developer-black?style=flat-square&logo=unity" />
+  <img src="https://img.shields.io/badge/Godot-Specialist-blue?style=flat-square&logo=godot-engine" />
+  <img src="https://img.shields.io/badge/C%23-Master-green?style=flat-square&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/Firebase-Expert-orange?style=flat-square&logo=firebase" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 | Category | Tools |
