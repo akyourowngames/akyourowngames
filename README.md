@@ -7,10 +7,9 @@
 ---
 
 ### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-bg=true&margin-w=4" alt="akyourowngames trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-bg=true&margin-w=4&rank=SSS,SS,S,A,B" alt="akyourowngames trophies" />
 </p>
 
 ---
