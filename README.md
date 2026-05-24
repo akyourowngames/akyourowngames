@@ -1,43 +1,104 @@
-# Hi, I am Krish
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=akyourowngames&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/=flat-square)
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;Builder+%7C+Automator+%7C+Hacker;I+build+things+that+actually+work.)](https://git.io/typing-svg)
 
-I build AI assistants, automation tools, web apps, and experimental products in public. My repos are a mix of practical utilities, creative frontend builds, and agent-style systems that connect chat, voice, memory, APIs, and real workflows.
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6E40C9&style=flat-square&label=Profile+Views)
 
-## What I Build
+</div>
 
-- Personal AI assistants with voice, memory, and tool use
-- Developer utilities for repository analysis and automation
-- TypeScript web apps with modern product-style interfaces
-- Android and safety-tech experiments with real-world use cases
-- Small frontend projects for sharpening UI and browser fundamentals
+---
 
-## Featured Projects
+### ⚡ About Me
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [A.N.K.I.T.A](https://github.com/akyourowngames/A.N.K.I.T.A) | Personal AI assistant with voice, memory, Telegram, and desktop tools | Python |
-| [HelpID Android](https://github.com/akyourowngames/HelpID-Android) | QR and NFC emergency profile app for responders | Kotlin, Android |
-| [RepoWhisper](https://github.com/akyourowngames/RepoWhisper) | Repository analysis and codebase insight tooling | Python |
-| [Movix](https://github.com/akyourowngames/Movix) | Movie discovery app with search and watchlist UX | TypeScript, React |
-| [NovaMove](https://github.com/akyourowngames/NovaMove) | Real-time meeting-to-action automation agent | Python |
+```python
+krish = {
+    "location"   : "Delhi, India 🇮🇳",
+    "focus"      : ["Automation", "Agent Design", "Local Tooling"],
+    "currently"  : "Building MUSE — a GPT-powered local music agent",
+    "philosophy" : "No fluff. Just systems that work.",
+    "ask_me"     : ["Python", "Agents", "yt-dlp", "CLI tools"],
+}
+```
 
-## Current Focus
+---
 
-- Agentic AI and assistant workflows
-- Practical automation for daily digital tasks
-- Cleaner README, docs, and portfolio presentation across projects
-- Shipping small but polished apps that are easy for developers to understand
+### 🛠️ Tech Stack
 
-## Tech I Use
+<div align="center">
 
-Python TypeScript JavaScript Kotlin Go React Next.js Android APIs Automation LLMs
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Connect
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- GitHub: [@akyourowngames](https://github.com/akyourowngames)
-- Portfolio focus: AI assistants, web apps, automation, open-source experiments
+<!-- AI/ML -->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-Thanks for visiting. The best projects here are the ones that turn experiments into something useful.
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🎵 **MUSE** | GPT-powered local music agent with VLC + yt-dlp | `Python` `OpenAI` `yt-dlp` |
+| 🤖 **[Project 2]** | [Short description] | `Stack` |
+| ⚙️ **[Project 3]** | [Short description] | `Stack` |
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best code is the code that ships."*
+
+</div>
