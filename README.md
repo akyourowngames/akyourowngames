@@ -17,9 +17,9 @@
 krish = {
     "location"   : "Delhi, India 🇮🇳",
     "focus"      : ["Automation", "Agent Design", "Local Tooling"],
-    "currently"  : "Building MUSE — a GPT-powered local music agent",
+    "currently"  : "Building Friday — a nim-powered local assistant",
     "philosophy" : "No fluff. Just systems that work.",
-    "ask_me"     : ["Python", "Agents", "yt-dlp", "CLI tools"],
+    "ask_me"     : ["Python", "Agents", "AI-Assistants", "CLI tools"],
 }
 ```
 
@@ -71,7 +71,7 @@ krish = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎵 **MUSE** | GPT-powered local music agent with VLC + yt-dlp | `Python` `OpenAI` `yt-dlp` |
+| 🎵 **Friday** | NIM-powered local assistant with memory + tools | `Python` `NIM` `Memory` |
 | 🤖 **[Project 2]** | [Short description] | `Stack` |
 | ⚙️ **[Project 3]** | [Short description] | `Stack` |
 
