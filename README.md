@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;Builder+%7C+Automator+%7C+Hacker;I+build+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=720&lines=Hey%2C+I'm+Krish;Student+developer+building+AI+tools;Local+assistants+%7C+Automation+%7C+Web+apps;I+ship+projects+and+learn+in+public)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/akyourowngames?label=Follow&style=social)](https://github.com/akyourowngames)
 ![Profile Views](https://komarev.com/ghpvc/?username=akyourowngames&color=6E40C9&style=flat-square&label=Profile+Views)
 
@@ -11,60 +9,82 @@
 
 ---
 
-### ⚡ About Me
+## About Me
 
 ```python
 krish = {
-    "location"   : "Delhi, India 🇮🇳",
-    "focus"      : ["Automation", "Agent Design", "Local Tooling", "Andrio Dev"],
-    "currently"  : "Building Friday — a nim-powered local assistant",
-    "philosophy" : "No fluff. Just systems that work.",
-    "ask_me"     : ["Python", "Agents", "AI-Assistants", "CLI tools"],
+    "role": "student developer",
+    "home": "India",
+    "focus": ["AI assistants", "automation", "local tools", "web apps"],
+    "currently_building": "Friday - an open-source local AI assistant runtime",
+    "style": "learn fast, build in public, verify what works",
+    "ask_me_about": ["Python", "AI agents", "FastAPI", "Next.js", "developer tools"],
 }
 ```
 
+I like building projects that feel useful, not just impressive in a screenshot:
+local AI assistants, tool calling systems, automation workflows, frontend
+experiments, and small apps that teach me how real software behaves.
+
 ---
 
-### 🛠️ Tech Stack
+## Featured Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Friday](https://github.com/akyourowngames/friday) | Open-source local AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, and verified tool calling. | Python, FastAPI, Next.js, NVIDIA NIM |
+| [A.N.K.I.T.A](https://github.com/akyourowngames/A.N.K.I.T.A) | Personal AI assistant with voice, memory, Telegram, desktop tools, and monitoring workflows. | Python, LLMs, automation |
+| [Yantra](https://github.com/akyourowngames/Yantra) | Startup-style TypeScript web app prototype with a polished product interface. | TypeScript, React, Next.js |
+| [HelpID Android](https://github.com/akyourowngames/HelpID-Android) | Open-source emergency profile app using QR/NFC access for critical information. | Kotlin, Android, NFC |
+| [RepoWhisper](https://github.com/akyourowngames/RepoWhisper) | Developer tool for analyzing repositories and turning code structure into clear insights. | Python, CLI, devtools |
+
+---
+
+## Reusable Gists
+
+Small pieces from my assistant work that other devs can lift into their own
+agent projects:
+
+- [JSON tool-call leak guard](https://gist.github.com/akyourowngames/a4ae05d4a11a0b36cf2be9f227f3d96b)
+- [Semantic tool router](https://gist.github.com/akyourowngames/f6492d54f7f1f7302d5f1ed387f89a5a)
+- [Structured tool result envelopes](https://gist.github.com/akyourowngames/5e1f59861ad965e0fe1a585ac9cbb022)
+- [Graph memory unified ranker](https://gist.github.com/akyourowngames/64563ec381c7a435b13a79facd742a4e)
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-<!-- AI/ML -->
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## How I Build
+
+- I build working prototypes first, then tighten reliability.
+- I care about tool grounding: assistants should do real actions, not fake them.
+- I like local-first systems, visible verification, and practical automation.
+- I am learning in public, so feedback and contributions are welcome.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyourowngames&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyourowngames&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyourowngames&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -77,38 +97,8 @@ krish = {
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🎵 **Friday** | NIM-powered local assistant with memory + tools | `Python` `NIM` `Memory` |
-| 🤖 **Helper-ID** | A Emergency sos app with nfc | `NFC` `Kotlin` `Gradle` |
-| ⚙️ *Witness* | AI-powered witness game powered by gemini | `Python` `Typescript` |
-
----
-
-### 🏆 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akyourowngames&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best code is the code that ships."*
+**Building in public. Shipping what I learn.**
 
 </div>
