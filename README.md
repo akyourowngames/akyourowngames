@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;Builder+%7C+Automator+%7C+Hacker;I+build+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;Building+AI+Agents+%F0%9F%A4%96;Full+Stack+Dev+%F0%9F%92%BB)](https://github.com/akyourowngames)
 
 <!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/akyourowngames?label=Follow&style=social)](https://github.com/akyourowngames)
@@ -16,7 +16,7 @@
 ```python
 krish = {
     "location"   : "Delhi, India 🇮🇳",
-    "focus"      : ["Automation", "Agent Design", "Local Tooling", "Andrio Dev"],
+    "focus"      : ["Automation", "Agent Design", "Local Tooling", "Android Dev"],
     "currently"  : "Building Friday — a nim-powered local assistant",
     "philosophy" : "No fluff. Just systems that work.",
     "ask_me"     : ["Python", "Agents", "AI-Assistants", "CLI tools"],
@@ -83,7 +83,7 @@ krish = {
 |--------|-------------|-------|
 | 🎵 **Friday** | NIM-powered local assistant with memory + tools | `Python` `NIM` `Memory` |
 | 🤖 **Helper-ID** | A Emergency sos app with nfc | `NFC` `Kotlin` `Gradle` |
-| ⚙️ *Witness* | AI-powered witness game powered by gemini | `Python` `Typescript` |
+| ⚙️ **Witness** | AI-powered witness game powered by gemini | `Python` `Typescript` |
 
 ---
 
@@ -91,7 +91,7 @@ krish = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
