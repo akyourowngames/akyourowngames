@@ -91,7 +91,8 @@ krish = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
