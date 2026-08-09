@@ -17,7 +17,7 @@
 krish = {
     "location"   : "Delhi, India 🇮🇳",
     "focus"      : ["Automation", "Agent Design", "Local Tooling", "Android Dev"],
-    "currently"  : "Building Friday — a nim-powered local assistant",
+    "currently"  : "Building Friday (Ares) — a local-first AI assistant",
     "philosophy" : "No fluff. Just systems that work.",
     "ask_me"     : ["Python", "Agents", "AI-Assistants", "CLI tools"],
 }
@@ -79,11 +79,29 @@ krish = {
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🎵 **Friday** | NIM-powered local assistant with memory + tools | `Python` `NIM` `Memory` |
-| 🤖 **Helper-ID** | A Emergency sos app with nfc | `NFC` `Kotlin` `Gradle` |
-| ⚙️ **Witness** | AI-powered witness game powered by gemini | `Python` `Typescript` |
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| 🤖 **friday** (Ares) | Local-first personal AI assistant — graph memory, semantic tool routing, FastAPI/Next.js | `Python` `FastAPI` `Next.js` `Local-first` | [repo](https://github.com/akyourowngames/friday) |
+| 🧠 **A.N.K.I.T.A** | Python personal AI assistant with voice, memory, Telegram, desktop tools | `Python` `LLM` `Telegram` `Memory` | [repo](https://github.com/akyourowngames/A.N.K.I.T.A) |
+| 🌸 **AniKai** | Anime discovery web app — browse, explore details, track favorites | `Next.js` `React` `TypeScript` `Vercel` | [repo](https://github.com/akyourowngames/AniKai) · [live](https://ani-kai.vercel.app) |
+| 🎵 **echo89** | Local-first cinematic music player that turns songs into a personal archive | `Next.js` `Web Audio` `Local-first` | [repo](https://github.com/akyourowngames/echo89) |
+| 🤖 **Helper-ID** | Emergency SOS app with NFC | `NFC` `Kotlin` `Gradle` | [repo](https://github.com/akyourowngames/Helper-ID) |
+| ⚙️ **Witness** | AI-powered witness game powered by Gemini | `Python` `TypeScript` | [repo](https://github.com/akyourowngames/Witness) |
+
+> 💡 **Tip:** Pin `friday`, `A.N.K.I.T.A`, `AniKai`, and `echo89` on your profile for the strongest first impression.
+
+---
+
+### ⭐ Star My Work
+
+If any of these projects helped you or just look cool, a ⭐ is the easiest way to support the work and help others discover it:
+
+<p align="center">
+  <a href="https://github.com/akyourowngames/friday/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/friday?style=social" alt="Star friday"/></a>
+  <a href="https://github.com/akyourowngames/A.N.K.I.T.A/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social" alt="Star A.N.K.I.T.A"/></a>
+  <a href="https://github.com/akyourowngames/AniKai/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/AniKai?style=social" alt="Star AniKai"/></a>
+  <a href="https://github.com/akyourowngames/echo89/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/echo89?style=social" alt="Star echo89"/></a>
+</p>
 
 ---
 
