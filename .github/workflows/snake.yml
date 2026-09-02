@@ -1,36 +1,35 @@
-name: Update Stats Cards
+name: Snake
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  publish:
+  snake:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3.5.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: akyourowngames
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: UTC
-          filename: github-stats.svg
-          
-      - name: Generate Languages
-        uses: lowlighter/metrics@latest
+          github_user_name: akyourowngames
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            metrics/snake-dark.svg?palette=github-dark
+            metrics/snake-light.svg?palette=github-light
+
+      - name: Commit snake animation
+        uses: EndBug/add-and-commit@v9
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: akyourowngames
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          filename: top-langs.svg
+          add: metrics
+          message: "chore(snake): refresh contribution animation [skip ci]"
+          default_author: github_actions
