@@ -1,131 +1,218 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;Building+AI+Agents+%F0%9F%A4%96;Full+Stack+Dev+%F0%9F%92%BB)](https://github.com/akyourowngames)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  HEADER                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/akyourowngames?label=Follow&style=social)](https://github.com/akyourowngames)
-![Profile Views](https://komarev.com/ghpvc/?username=akyourowngames&color=6E40C9&style=flat-square&label=Profile+Views)
+<a href="https://github.com/akyourowngames">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&height=70&lines=Hey%2C+I'm+Krish+%F0%9F%91%8B;I+build+AI+agents+%F0%9F%A4%96;Full-stack+%26+automation+%F0%9F%92%BB;Local-first+%3E+everything+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akyourowngames)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:animeit158@gmail.com)
+![Followers](https://img.shields.io/github/followers/akyourowngames?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=akyourowngames&color=8B5CF6&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ABOUT                                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### ⚡ About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About me
 
-```python
-krish = {
-    "location"   : "Delhi, India 🇮🇳",
-    "focus"      : ["Automation", "Agent Design", "Local Tooling", "Android Dev"],
-    "currently"  : "Building Friday (Ares) — a local-first AI assistant",
-    "philosophy" : "No fluff. Just systems that work.",
-    "ask_me"     : ["Python", "Agents", "AI-Assistants", "CLI tools"],
-}
+```zsh
+$ whoami
+→ Krish · India 🇮🇳  ·  open to work
+
+$ focus --list
+  ✓ AI agents & local-first assistants
+  ✓ Automation & agent tooling
+  ✓ Full-stack web (Next.js / React / FastAPI)
+  ✓ Android (Kotlin)
+
+$ cat ./currently-building.txt
+  → friday (Ares) — a local-first AI assistant runtime:
+    graph memory, semantic tool routing, markdown-governed tools
+
+$ echo $PHILOSOPHY
+  → No fluff. Just systems that ship.
 ```
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  TECH STACK                                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🛠️ Tech Stack
+### 🛠️ &nbsp;Tech stack
 
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+**Languages**
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6EA8FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=6EA8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0DB69)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=9E91FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=CB9EF7)
 
-<!-- AI/ML -->
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**AI / Agents**
 
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=3ECF8E)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=3ECF8E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3ECF8E)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757)
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=6EA8FF)
+
+**Data & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+**Game dev**
+
+![Godot](https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  STATS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📊 GitHub Stats
+### 📊 &nbsp;Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyourowngames&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyourowngames&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="./metrics/metrics.svg" alt="Metrics" width="49%" />
+<img src="https://streak-stats.demolab.com?user=akyourowngames&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=A78BFA&currStreakLabel=A78BFA&ring=8B5CF6&fire=F7768E&dates=6E7681" alt="Streak" width="49%" />
+
+<br/><br/>
+
+<img src="./metrics/isocalendar.svg" alt="Isometric contribution calendar" width="75%" />
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  SNAKE                                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### 🐍 &nbsp;Contribution snake
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akyourowngames&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./metrics/snake-light.svg" />
+  <img src="./metrics/snake-dark.svg" alt="Snake eating contributions" />
+</picture>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ACTIVITY GRAPH                                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🤖 **friday** (Ares) | Local-first personal AI assistant — graph memory, semantic tool routing, FastAPI/Next.js | `Python` `FastAPI` `Next.js` `Local-first` | [repo](https://github.com/akyourowngames/friday) |
-| 🧠 **A.N.K.I.T.A** | Python personal AI assistant with voice, memory, Telegram, desktop tools | `Python` `LLM` `Telegram` `Memory` | [repo](https://github.com/akyourowngames/A.N.K.I.T.A) |
-| 🌸 **AniKai** | Anime discovery web app — browse, explore details, track favorites | `Next.js` `React` `TypeScript` `Vercel` | [repo](https://github.com/akyourowngames/AniKai) · [live](https://ani-kai.vercel.app) |
-| 🎵 **echo89** | Local-first cinematic music player that turns songs into a personal archive | `Next.js` `Web Audio` `Local-first` | [repo](https://github.com/akyourowngames/echo89) |
-| 🤖 **Helper-ID** | Emergency SOS app with NFC | `NFC` `Kotlin` `Gradle` | [repo](https://github.com/akyourowngames/Helper-ID) |
-| ⚙️ **Witness** | AI-powered witness game powered by Gemini | `Python` `TypeScript` | [repo](https://github.com/akyourowngames/Witness) 
-
----
-
-### ⭐ Star My Work
-
-If any of these projects helped you or just look cool, a ⭐ is the easiest way to support the work and help others discover it:
-
-<p align="center">
-  <a href="https://github.com/akyourowngames/friday/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/friday?style=social" alt="Star friday"/></a>
-  <a href="https://github.com/akyourowngames/A.N.K.I.T.A/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social" alt="Star A.N.K.I.T.A"/></a>
-  <a href="https://github.com/akyourowngames/AniKai/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/AniKai?style=social" alt="Star AniKai"/></a>
-  <a href="https://github.com/akyourowngames/echo89/stargazers"><img src="https://img.shields.io/github/stars/akyourowngames/echo89?style=social" alt="Star echo89"/></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
+### 📈 &nbsp;Activity graph
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akyourowngames&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=6EA8FF&area=true&hide_border=true&area_color=8B5CF622)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  TROPHIES                                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📈 Contribution Graph
+### 🏆 &nbsp;Trophies
 
 <div align="center">
 
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akyourowngames&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=akyourowngames&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PROJECTS                                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### 🚀 &nbsp;Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/akyourowngames/friday">friday</a> <sub>· Ares</sub>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/friday?style=social" alt="stars"/></h3>
+      Local-first AI assistant runtime — graph memory, semantic tool routing, markdown-governed tools, FastAPI + Next.js surfaces.<br/>
+      <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>Local-first</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/akyourowngames/Yantra">Yantra</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/Yantra?style=social" alt="stars"/></h3>
+      TypeScript startup web app prototype for showcasing products, workflows, and digital service ideas.<br/>
+      <code>TypeScript</code> <code>Next.js</code> <code>Startup</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/akyourowngames/A.N.K.I.T.A">A.N.K.I.T.A</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/A.N.K.I.T.A?style=social" alt="stars"/></h3>
+      Python personal AI assistant — voice, memory, Telegram, desktop tools, always-on project monitoring.<br/>
+      <code>Python</code> <code>LLM</code> <code>Telegram</code> <code>Memory</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👻 <a href="https://github.com/akyourowngames/ghosttabs">GhostTab</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/ghosttabs?style=social" alt="stars"/></h3>
+      Universal local-first context layer for the web — capture pages & AI chats, distill durable memory.<br/>
+      <code>TypeScript</code> <code>Local-first</code> <code>AI Memory</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/akyourowngames/echo89">echo89</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/echo89?style=social" alt="stars"/></h3>
+      Local-first cinematic music player that turns songs into a personal archive.<br/>
+      <code>TypeScript</code> <code>Web Audio</code> <code>Local-first</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/akyourowngames/AniKai">AniKai</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/AniKai?style=social" alt="stars"/></h3>
+      Anime discovery web app — browse shows, explore details, track favorites in a modern UI.<br/>
+      <code>Next.js</code> <code>React</code> <a href="https://ani-kai.vercel.app">live ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/akyourowngames/Movix">Movix</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/Movix?style=social" alt="stars"/></h3>
+      Movie discovery app with fast search, watchlists, and a polished streaming-style interface.<br/>
+      <code>TypeScript</code> <code>React</code> <code>Streaming UI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🆘 <a href="https://github.com/akyourowngames/HelpID-Android">HelpID</a>&nbsp;<img src="https://img.shields.io/github/stars/akyourowngames/HelpID-Android?style=social" alt="stars"/></h3>
+      Open-source Android SOS app using QR & NFC emergency profiles for fast medical-info access.<br/>
+      <code>Kotlin</code> <code>NFC</code> <code>Android</code>
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  FOOTER                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-*"The best code is the code that ships."*
+<br/>
+
+<a href="mailto:animeit158@gmail.com"><img src="https://img.shields.io/badge/Let's%20build%20something-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/akyourowngames?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+
+<br/><br/>
+
+<i>“The best code is the code that ships.”</i>
 
 </div>
