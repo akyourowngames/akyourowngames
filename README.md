@@ -94,12 +94,26 @@ $ echo $PHILOSOPHY
 
 <div align="center">
 
-<img src="./metrics/metrics.svg" alt="Metrics" width="49%" />
-<img src="https://streak-stats.demolab.com?user=akyourowngames&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=A78BFA&currStreakLabel=A78BFA&ring=8B5CF6&fire=F7768E&dates=6E7681" alt="Streak" width="49%" />
+<table>
+  <tr>
+    <td width="38%" valign="middle">
+      <img src="./metrics/metrics.svg" alt="Terminal metrics" width="100%" />
+    </td>
+    <td width="62%" valign="middle">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs?username=akyourowngames&show_icons=true&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=3ECF8E">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akyourowngames&show_icons=true&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=3ECF8E" alt="Top languages" width="100%" />
+      </a>
+      <br/><br/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=akyourowngames&theme=tokyonight&hide_border=true&background=0D1117&sideLabels=A78BFA&currStreakLabel=A78BFA&ring=8B5CF6&fire=F7768E&dates=6E7681" alt="Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="./metrics/isocalendar.svg" alt="Isometric contribution calendar" width="75%" />
+<img src="./metrics/isocalendar.svg" alt="Isometric contribution calendar" width="80%" />
 
 </div>
 
