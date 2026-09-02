@@ -25,7 +25,7 @@ jobs:
           user: akyourowngames
           template: terminal
           filename: metrics/metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Kolkata
 
       - name: Generate isometric contribution calendar
