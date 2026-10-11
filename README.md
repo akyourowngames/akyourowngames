@@ -80,6 +80,16 @@ Workflow    Git · Docker · local-first architecture · automation
 - Exploring durable memory and context systems for both people and agents.
 - Turning developer workflows into tools that are easier to understand and maintain.
 
+## Writing
+
+I write up what I build — the decisions, the bugs, the numbers:
+
+- [How I built a 4-tier approval gate for my AI companion: a heuristic that can never say no](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-4-tier-approval-gate-for-my-ai-companion-a-heuristic-that-can-never-say-no-2k7o)
+- [Ankita v2.5.2: startup that actually starts — a DOM probe, a strict CSP, and the blank window](https://dev.to/krish_verma_77e28d3fd63ca/ankita-v252-startup-that-actually-starts-a-dom-probe-a-strict-csp-and-the-blank-window-220k)
+- [Ankita v2.5.1: the browser explains itself — automatic instructions, readable page evidence, and a guarded runtime](https://dev.to/krish_verma_77e28d3fd63ca/ankita-v251-the-browser-explains-itself-automatic-instructions-readable-page-evidence-and-a-fje)
+- [How I built memory for my desktop AI companion: every memory must quote the transcript](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-memory-for-my-desktop-ai-companion-every-memory-must-quote-the-transcript-55kk)
+- [How I built a secret scrubber for my desktop AI assistant: 7 patterns, an entropy gate, and zero model calls](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-secret-scrubber-for-my-desktop-ai-assistant-7-patterns-an-entropy-gate-and-zero-42il)
+
 ## GitHub activity
 
 <div align="center">
