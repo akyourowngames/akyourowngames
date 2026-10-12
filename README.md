@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-akyourowngames-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akyourowngames)
 [![Email](https://img.shields.io/badge/Email-animeit158%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:animeit158@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-v-a86540431)
 [![Followers](https://img.shields.io/github/followers/akyourowngames?label=Followers&style=flat-square&color=8B5CF6&labelColor=181717)](https://github.com/akyourowngames?tab=followers)
 
 </div>
