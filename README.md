@@ -31,10 +31,10 @@ I am interested in the layer between **AI capability** and **useful software**: 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akyourowngames/friday">friday</a></h3>
       <p>Local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, and FastAPI + Next.js surfaces.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>AI agents</code>
+      <code>Python</code> <code>TypeScript</code> <code>FastAPI</code> <code>Next.js</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/akyourowngames/ghosttabs">GhostTab</a></h3>
+      <h3><a href="https://github.com/akyourowngames/ghosttabs">ghosttabs</a></h3>
       <p>A local-first context layer for the web: capture pages and AI conversations, distill durable memory, and continue work across sessions.</p>
       <code>TypeScript</code> <code>Local-first</code> <code>AI memory</code>
     </td>
@@ -55,7 +55,7 @@ I am interested in the layer between **AI capability** and **useful software**: 
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akyourowngames/A.N.K.I.T.A">A.N.K.I.T.A</a></h3>
       <p>A personal AI assistant with voice, memory, Telegram, desktop tools, and project monitoring.</p>
-      <code>Python</code> <code>LLMs</code> <code>Automation</code>
+      <code>JavaScript</code> <code>LLMs</code> <code>Automation</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/akyourowngames/AniKai">AniKai</a></h3>
@@ -69,9 +69,9 @@ I am interested in the layer between **AI capability** and **useful software**: 
 
 ```text
 Core        Python · TypeScript · JavaScript · Kotlin
-AI          FastAPI · OpenAI-compatible APIs · LangChain · semantic retrieval
+AI          FastAPI · OpenAI-compatible APIs · semantic retrieval
 Web         Next.js · React · Tailwind CSS
-Data        PostgreSQL/Supabase · MongoDB · Firebase
+Data        PostgreSQL/Supabase
 Workflow    Git · Docker · local-first architecture · automation
 ```
 
